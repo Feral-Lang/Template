@@ -1,0 +1,8 @@
+author = '<Author>';
+name = '<Binary/Library Name>';
+version = '0.0.1';
+description = '<A good but concise description>';
+source = 'https://github.com/<Org>/<Repo>';
+depends = {
+    # <package> = '<version>';
+};

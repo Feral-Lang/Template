@@ -1,0 +1,5 @@
+let io = import('std/io');
+
+io.println('Hello world!');
+
+

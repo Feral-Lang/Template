@@ -1,0 +1,7 @@
+let builder = import('pkg/builder');
+
+let project = builder.get();
+
+# Build logic starts here.
+
+
